@@ -10,6 +10,7 @@ This repository contains **17+ machine learning projects** organized by algorith
 ML_miniProjects/
 ├── Adaboost/                      # AdaBoost classification & regression
 ├── Anomaly Detection/             # Anomaly detection techniques
+├── CompleteNLP For Machine Learning/  # Complete NLP practicals & projects
 ├── DBSCAN/                        # Density-based clustering
 ├── Decision Tree/                 # Decision tree classifier & regressor
 ├── GBoost/                        # Gradient Boosting implementations
@@ -116,6 +117,30 @@ Dimensionality reduction and feature extraction
   - Using BOW + Machine Learning
   - Using Word2Vec + Machine Learning
 - **Kindle Review Sentiment Analysis**
+
+### 📚 CompleteNLP For Machine Learning (13 files)
+
+A comprehensive collection of NLP practicals and projects covering fundamental to advanced concepts:
+
+**Text Preprocessing Fundamentals:**
+- **Tokenization Example Using NLTK** - Breaking text into tokens
+- **Stemming And Its Types** - Text normalization techniques
+- **Lemmatization** - Converting words to their base forms
+- **Text Preprocessing-Stopwords With NLTK** - Removing common words
+- **Parts Of Speech Tagging** - Grammatical classification
+- **Named Entity Recognition** - Identifying and classifying entities
+
+**Feature Engineering:**
+- **Bag Of Words Practicals** (File 15) - BOW implementation
+- **TF-IDF Practical** (File 16) - Term frequency analysis
+- **Word2Vec Practical Implementation** (File 26) - Word embeddings
+
+**Applied NLP Projects:**
+- **Spam Ham Classification Using TF-IDF And ML** (File 27)
+- **Spam Ham Classification Using BOW And TFIDF And ML** (File 27.2)
+- **Spam Ham Projects Using Word2vec, AvgWord2vec** (Files 28 & 29)
+- **Kindle Review Sentiment Analysis** (Files 30 & 31)
+
 
 ### 🔄 Complete ML Project Lifecycle
 End-to-end implementation covering:
